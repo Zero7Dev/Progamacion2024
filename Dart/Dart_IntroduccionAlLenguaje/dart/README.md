@@ -79,3 +79,6 @@ BIEN DEFINIDAS DENTRO DEL PROGAMA NI NECESIDAD DE LEER LA DOCUMENTACION DEL PROG
 ## FUTURE
 ESTAN BASADOS EN LAS PROMESAS DE JS
 como cualquier tipo de dato puede resolver cualquier tipo de dato}
+
+# RESPUESTAS JSON COMPLEJAS 
+* **DentroDeObjetos**
